@@ -28,15 +28,16 @@ export const projectsData = [
     demo: "https://playful-melomakarona-c9d8f7.netlify.app/",
     image: seven,
   },
-  // {
-  //   id: 3,
-  //   projectName: "Travel Agency",
-  //   projectDesc: "processing",
-  //   tags: ["React", "CSS", "Material Ui"],
-  //   code: "",
-  //   demo: "",
-  //   image: eight,
-  // },
+  {
+    id: 3,
+    projectName: "Pettycash Manager",
+    projectDesc:
+      "The Petty Cash Management app helps to simplify and enables you to keep track of your expenses in real time. Desired Outcomes.",
+    tags: ["React", "Nodejs", "Expressjs", "MongoDB"],
+    code: "	https://github.com/gkavin57/Frontend-Pettycash-Manager-Capstone",
+    demo: "	https://gregarious-squirrel-201067.netlify.app",
+    image: eight,
+  },
   // {
   //   id: 4,
   //   projectName: "Patient Tracker",
