@@ -4,7 +4,7 @@ export const experienceData = [
     company: "GUVI GEEK NETWORK PRIVATE LIMITED",
     jobtitle: "MERN stack Trainee",
     startYear: " 2022",
-    endYear: "Present",
+    endYear: "2023",
   },
 
   {
