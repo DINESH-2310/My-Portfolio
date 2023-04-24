@@ -1,7 +1,7 @@
 export const socialsData = {
-  github: "https://github.com/gkavin57",
+  github: "https://github.com/DINESH-2310",
 
-  linkedIn: "https://www.linkedin.com/feed/",
+  linkedIn: "https://www.linkedin.com/in/dinesh-k-7b5761154/",
 
-  mail: "gkavin77@gmail.com",
+  mail: "dineshosthi2310@gmail.com",
 };

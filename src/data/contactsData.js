@@ -1,6 +1,6 @@
 export const contactsData = {
-  email: "gkavin77@gmail.com",
-  phone: "8072103090",
-  address: "Kumarapalayam,Namakkal,   TamilNadu - 638183",
+  email: "dineshosthi2310@gmail.com",
+  phone: "96588-07080",
+  address: "veerapanchatram,Erode,   TamilNadu - 638004",
   sheetAPI: "",
 };

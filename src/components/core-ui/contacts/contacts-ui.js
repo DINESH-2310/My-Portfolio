@@ -88,7 +88,7 @@ const ContactUI = ({
 
               <div className="submit-btn">
                 <button type="submit" className={classes.submitBtn}>
-                  <p>{!success ? "Send" : "Sent"}</p>
+                  <p>{!success ? "Send" : "Success"}</p>
                   <div className="submit-icon">
                     <AiOutlineSend
                       className="send-icon"
@@ -208,37 +208,8 @@ const ContactUI = ({
                 </a>
               )}
 
-              {socialsData.youtube && (
-                <a
-                  href={socialsData.youtube}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={classes.socialIcon}
-                >
-                  <FaYoutube aria-label="YouTube" />
-                </a>
-              )}
-
-              {socialsData.stackOverflow && (
-                <a
-                  href={socialsData.stackOverflow}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={classes.socialIcon}
-                >
-                  <FaStackOverflow aria-label="Stack Overflow" />
-                </a>
-              )}
-              {socialsData.facebook && (
-                <a
-                  href={socialsData.facebook}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={classes.socialIcon}
-                >
-                  <FaFacebook aria-label="facebook" />
-                </a>
-              )}
+             
+              
             </div>
           </div>
         </div>

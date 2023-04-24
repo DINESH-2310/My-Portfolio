@@ -9,9 +9,9 @@ export const experienceData = [
 
   {
     id: 3,
-    company: "Learning New Technology For Everyday",
-    jobtitle: "Self Learning",
-    startYear: "2021",
+    company: "Hinduja Housing Finance",
+    jobtitle: "Relationship Manager",
+    startYear: "2020",
     endYear: "2022",
   },
 ];
